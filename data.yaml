@@ -1,4 +1,4 @@
-train: ./dataset/train/images
-val: ./dataset/val/images
+train: D:/AI Vision - Identify Objects in Construction/blueprint-detector/blueprint-detector/dataset/train/images
+val: D:/AI Vision - Identify Objects in Construction/blueprint-detector/blueprint-detector/dataset/val/images
 nc: 3
 names: ['evse', 'panel', 'gfi']
