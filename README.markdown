@@ -178,4 +178,3 @@ Deploy to Hugging Face Spaces or Railway for public access.
 - **Model Accuracy**: Trained to achieve mAP@50 ≥ 0.50.
 - **Annotation**: Manual annotation required. Use LabelImg for YOLO-format labels.
 - **AWS S3**: Ensure the bucket exists and credentials are valid.
-- **Submission**: Submit the GitHub repository URL and deployed endpoint to hiring@palcode.ai.
